@@ -1,0 +1,21 @@
+.asdh-center_image_inside_me {
+  width    : 200px;
+  height   : 200px;
+  position : relative;
+  overflow : hidden;
+  display  : block;
+  img {
+    position : absolute;
+    width    : 100%;
+  }
+}
+
+.asdh-center_image_inside_me.asdh-another_parent_of_image {
+  width  : 150px;
+  height : 100px;
+  
+  // other styles
+  border        : 5px solid #fff;
+  border-radius : 7px;
+  box-shadow    : rgba(0,0,0,0.4) 0 0 5px;
+}
