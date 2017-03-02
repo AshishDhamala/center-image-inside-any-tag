@@ -9,6 +9,7 @@
   <img src="https://www.xyz.com/my-image.jpg" alt="my image" />
 </div>
 ```
+A quick note: The image inside the the tag will contain the whole tag.
 * Give it class asdh-center_image_inside_me
 ```html
 <div class="asdh-center_image_inside_me">
