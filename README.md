@@ -5,11 +5,18 @@
 ## How to use??
 * Put an img tag inside any block(div) or inline(span) tag.
 ```html
-<div class="asdh-center_image_inside_me">
+<div>
   <img src="https://www.what-dog.net/Images/faces2/scroll0015.jpg" alt="dog image" />
 </div>
 ```
 * Give it class asdh-center_image_inside_me
+```
+```html
+<div class="asdh-center_image_inside_me">
+  <img src="https://www.what-dog.net/Images/faces2/scroll0015.jpg" alt="dog image" />
+</div>
+```
+```
 * Done. It's that simple.
 
 ## Default dimentions
